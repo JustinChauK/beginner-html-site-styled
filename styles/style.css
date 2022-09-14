@@ -1,5 +1,5 @@
 html {
-  font-size: 10px;
+  font-size: 18px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -17,21 +17,21 @@ p, li {
 
 
 html {
-  background-color: #00539F;
+  background-color: #03ad2829;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #d4eaca;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid rgb(255, 255, 255);
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #089041;
   text-shadow: 3px 3px 1px black;
 }
 
